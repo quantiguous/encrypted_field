@@ -1,5 +1,5 @@
 require "encrypted_field/version"
+require "openssl"
 
 module EncryptedField
-  # Your code goes here...
 end
